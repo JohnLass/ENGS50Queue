@@ -1,4 +1,4 @@
 # Modules
-Modules for ENGS50
-Module3 queue and hash table modules
+Respository for queue portion of module 3
+
 
